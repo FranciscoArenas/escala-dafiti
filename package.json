@@ -1,0 +1,25 @@
+{
+  "name": "francisco-arenas",
+  "version": "1.0.0",
+  "description": "Escala Prueba Dafiti",
+  "main": "escala.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoArenas/Dafiti-Francisco.git"
+  },
+  "keywords": [
+    "dafiti"
+  ],
+  "author": "FranciscoArenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoArenas/Dafiti-Francisco/issues"
+  },
+  "homepage": "https://github.com/FranciscoArenas/Dafiti-Francisco#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
