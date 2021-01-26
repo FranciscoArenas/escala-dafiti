@@ -1,8 +1,8 @@
 {
   "name": "francisco-arenas",
   "version": "1.0.0",
-  "description": "Escala Prueba Dafiti",
-  "main": "escala.js",
+  "description": "escalera Prueba Dafiti",
+  "main": "escalera.js",
   "scripts": {
     "test": "jest"
   },

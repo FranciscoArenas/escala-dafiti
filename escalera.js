@@ -1,5 +1,5 @@
 
-function escala(cartas) {
+function escalera(cartas) {
   cartas.sort((a, b) => a - b);
   if (cartas.length > 4 && cartas.length < 8) {
     var i = 0;
@@ -29,4 +29,4 @@ function escala(cartas) {
     return 'tiene que ser 7 o 5 cartas solamente';
   }
 }
-module.exports = escala;
+module.exports = escalera;
