@@ -21,12 +21,12 @@ function escalera(cartas) {
       cartasConsecutivas++;
     }
     if (cartasConsecutivas > 4) {
-      return 'es escalera';
+      return true;
     } else {
-      return 'no es escalera';
+      return false;
     }
   } else {
-    return 'tiene que ser 7 o 5 cartas solamente';
+    return false;
   }
 }
 module.exports = escalera;
